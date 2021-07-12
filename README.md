@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JerreyGlen student in the 3rd Semester at the HTW Berlin in Ingenieurinformatik
+- 👋 Hi, I’m @JerreyGlen student in the 4th Semester at the HTW Berlin in Ingenieurinformatik
 - 👀 I’m interested in Programming, Drawing and Reading
-- 🌱 I’m currently learning c#, Java...
-- 💞️ I’m looking to have even more Programming Knowledges and know new people in oder to be a better person
+- 🌱 I’m currently learning c#, Javascript, java...
+- 💞️ I’m looking to have even more Programming Knowledge and know new people in oder to be a better person
 - 📫 You kann write me on the email: letpjg@_gmail.com
 
 <!---
